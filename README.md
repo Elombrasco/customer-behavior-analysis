@@ -118,7 +118,7 @@ Key findings from the 3,900 purchases (total revenue: **$233,081**, average purc
 
 ## Full Report
 
-A detailed write-up of the method, findings and recommendations is available in [`Customer_Behavior_Analysis_Report.pdf`](Customer_Behavior_Analysis_Report.pdf).
+A detailed write-up of the method, findings and recommendations is available in [`Customer-Shopping-Behavior-Analysis.pdf`](Customer-Shopping-Behavior-Analysis.pdf).
 
 ## Repository Structure
 
@@ -126,7 +126,7 @@ A detailed write-up of the method, findings and recommendations is available in 
 ├── customer_shopping_behavior.csv
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_analysis.sql
-├── Customer_Behavior_Analysis_Report.pdf
+├── Customer-Shopping-Behavior-Analysis.pdf
 ├── index.html
 ├── images/
 │   └── dashboard.png
