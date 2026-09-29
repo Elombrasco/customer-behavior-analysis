@@ -69,6 +69,8 @@ An interactive **Power BI** dashboard summarizes the key metrics for business us
 
 ![Customer Behavior Dashboard](images/dashboard.png)
 
+**[Open the interactive web version](https://claude.ai/artifact/UzoHWEZHoP33AHWB5asQMz)** (in French): a clickable companion to the Power BI report, built from the same 3,900 rows. Filter by gender, subscription, category and shipping type and watch every KPI and chart update.
+
 **What it shows**
 - **KPI cards:** total customers (3.9K), average amount spent ($59.76), average review rating (3.75)
 - **Subscription split:** 27% subscribers vs 73% non-subscribers (donut chart)
@@ -125,6 +127,7 @@ A detailed write-up of the method, findings and recommendations is available in 
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_analysis.sql
 ├── Customer_Behavior_Analysis_Report.pdf
+├── dashboard_interactif.html
 ├── images/
 │   └── dashboard.png
 └── README.md
